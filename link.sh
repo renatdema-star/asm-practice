@@ -1,2 +1,2 @@
 #!/bin/bash
-ld -m elf_i386 practice14.o -o practice14
+ld -m elf_i386 practice15.o -o practice15
